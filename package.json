@@ -5,6 +5,8 @@
   "main": "index.js",
   "keywords": ["js-preprocess-loader", "vue-preprocess-loader", "preprocess-loader", "conditional compilation","tmplate compilation"],
   "author": "xwb",
+  "homepage": "https://github.com/xu1260114313/js-preprocess-loader",
+  "bugs": "https://github.com/xu1260114313/js-preprocess-loader/issues",
   "license": "MIT",
   "dependencies": {
     "preprocess": "^3.2.0"
