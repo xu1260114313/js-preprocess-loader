@@ -1,0 +1,12 @@
+{
+  "name": "js-preprocess-loader",
+  "version": "1.0.1",
+  "description": "conditional compilation",
+  "main": "index.js",
+  "keywords": ["js-preprocess-loader", "vue-preprocess-loader", "preprocess-loader", "conditional compilation","tmplate compilation"],
+  "author": "xwb",
+  "license": "MIT",
+  "dependencies": {
+    "preprocess": "^3.2.0"
+  }
+}
